@@ -1,4 +1,4 @@
-                    ![Folix-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=folix-01&show_icons=true&theme=transparent&text_color=00d49f&title_color=00b7c4&border_color=00d491&border_radius=1)
+![Folix-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=folix-01&show_icons=true&theme=transparent&text_color=00d49f&title_color=00b7c4&border_color=00d491&border_radius=1)
 
 <!--
 **folix-01/folix-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

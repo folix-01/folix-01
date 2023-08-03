@@ -1,4 +1,4 @@
-### Hi there 👋
+![Folix-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=folix-01&show_icons=true&theme=radical)
 
 <!--
 **folix-01/folix-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
